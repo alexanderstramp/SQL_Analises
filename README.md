@@ -1,2 +1,2 @@
 # SQL_Analises
- Neste repositório estão analises de sql
+ Este repositório contém analises em sql
