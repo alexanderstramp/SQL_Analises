@@ -8,5 +8,3 @@ FROM
 	Customer
 GROUP BY 
 	Gender
---HAVING 
---	Gender = 'M' or Gender = 'F'
